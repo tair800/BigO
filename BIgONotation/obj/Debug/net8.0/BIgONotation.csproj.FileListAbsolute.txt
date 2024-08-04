@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\bin\Debug\net8.0\BIgONotation.exe
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\bin\Debug\net8.0\BIgONotation.deps.json
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\bin\Debug\net8.0\BIgONotation.runtimeconfig.json
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\bin\Debug\net8.0\BIgONotation.dll
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\bin\Debug\net8.0\BIgONotation.pdb
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\obj\Debug\net8.0\BIgONotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\obj\Debug\net8.0\BIgONotation.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\obj\Debug\net8.0\BIgONotation.AssemblyInfo.cs
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\obj\Debug\net8.0\BIgONotation.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\obj\Debug\net8.0\BIgONotation.dll
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\obj\Debug\net8.0\refint\BIgONotation.dll
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\obj\Debug\net8.0\BIgONotation.pdb
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\obj\Debug\net8.0\BIgONotation.genruntimeconfig.cache
+C:\Users\Owner\Desktop\BIgONotation\BIgONotation\obj\Debug\net8.0\ref\BIgONotation.dll
